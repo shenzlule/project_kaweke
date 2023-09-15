@@ -49,6 +49,18 @@
     /* flex-basis: 40%; */
 
 }
+.buttonServices {
+    display: inline-block;
+    padding: 6px 14px;
+    background: rgb(14, 14, 14);
+    border: 1px solid white;
+    border-radius: 23px;
+    color: #fff;
+    font-size: 12px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
 .services22{
     border: 2px solid rgb(29,29,29);
     border-radius: 10px;
