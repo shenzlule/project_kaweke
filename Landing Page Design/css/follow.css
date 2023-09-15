@@ -1,0 +1,7 @@
+.follow{
+    color: white;
+    text-align: center;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+}
