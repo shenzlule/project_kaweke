@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 45px;
+}
+
+
+.gradient-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: linear-gradient(to right, rgb(234,147,30), rgb(250,52,5));
+    border: none;
+    border-radius: 23px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}

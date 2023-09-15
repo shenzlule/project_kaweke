@@ -1,0 +1,63 @@
+.expertStart{
+    width: inherit;
+
+    margin-top: 20px;
+    
+    height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content:end;
+  align-items:center;
+  align-content: flex-end;
+  color: white;
+  border: 2px solid green;
+}
+
+.consulting{
+    font-size:50px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.expertStart1{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    width: 400px;
+    height: inherit;
+    align-items: start;
+    justify-content: center;
+
+   
+
+}
+.expertStart2{
+   
+    border: 2px solid wheat;
+
+}
+
+.unlock{
+    color: rgb(142, 142, 143);
+}
+
+.expertStart1 img {
+   
+    width: 80px;
+    height: 30px;
+
+}
+
+.expertStart2 img {
+   
+    width: 800px;
+    height: 500px;
+
+}
+
+.expertStart11{
+    border: 2px solid greenyellow;
+    line-height: normal;
+    
+}
+
