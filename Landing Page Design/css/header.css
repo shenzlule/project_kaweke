@@ -3,6 +3,8 @@
     flex-direction: row;
     justify-content: space-between;
     height: 45px;
+    padding-left: 130px;
+    padding-right: 130px;
 }
 
 

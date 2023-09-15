@@ -10,7 +10,7 @@
   align-items:center;
   align-content: flex-end;
   color: white;
-  border: 2px solid green;
+  /* border: 2px solid green; */
 }
 
 .consulting{
@@ -22,7 +22,7 @@
 .expertStart1{
     display: flex;
     flex-direction: column;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 400px;
     height: inherit;
     align-items: start;
@@ -33,7 +33,7 @@
 }
 .expertStart2{
    
-    border: 2px solid wheat;
+    /* border: 2px solid wheat; */
 
 }
 
@@ -56,7 +56,7 @@
 }
 
 .expertStart11{
-    border: 2px solid greenyellow;
+    /* border: 2px solid greenyellow; */
     line-height: normal;
     
 }
